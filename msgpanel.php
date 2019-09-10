@@ -1,0 +1,2 @@
+    <!--Message for seller -->
+    <iframe style="display: none;" src="http://bulksms.mysmsmantra.com:8080/WebSMS/SMSAPI.jsp?username=iagro&password=825848045&sendername=iiagro&mobileno=<?php echo $mobno; ?>&message=<?php echo $msg; ?>"></iframe>
